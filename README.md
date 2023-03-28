@@ -10,11 +10,11 @@ Final project for the Building AI course
 El proyecto está baado en la creación de una aplicación de IA capaz de intuir y avisar de  posibles episodios epilépticos 
 
 
-## Background
+## La idea
 
 En este momento aún son muchas las epilepsias refractarias parciales complejas, que se muestran resistentes a los tratamientos con fármacos, sin que lleguen a ser controlados los episodios, pero todas tienen en común que son motivados por cambios en el organismo que ocurrriendo simultaneamente y particularmente provocan la respuesta neurologica que conocemos como Ataque Epiléptico. Una IA capaz de recibir constantemente información relevante del mayor numero de pacientes posible y de gestionar con un aprendizaje automatico toda esta infromación para postriormente tratarla con una red neuronal donde se reunan las convergencias de los datos de salud recibidos con la aparición de los episodios o ataques.
 
-This is how you make a list, if you need one:
+Primeros pasos:
 
 La optención de datos fiables. Como solucion inmediata disponemos del incrible avance del desarllo de aplicaiones ne rlojes intelijentes capaces de informarnos en tiempo real de muchos datos importantes de froma cada vez mas precisa -que aumentan dia a dia-, oxigeno en sangre, tension artrial, fiebre, horas y calidad de sueño, actividad respiratoria, temperatura corporal, como ejemplo, valiosisimos datos para la investigación, Solo hay que desarollar una APP que reciba y oredene estos datos y posteriormente envie a servidor central. Esta APP tambien servira para que el sujeto paciente informe de sus episodios.
 

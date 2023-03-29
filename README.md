@@ -18,20 +18,14 @@ Primeros pasos:
 
 La optención de datos fiables. Como solucion inmediata disponemos del incrible avance del desarllo de aplicaiones ne rlojes intelijentes capaces de informarnos en tiempo real de muchos datos importantes de froma cada vez mas precisa -que aumentan dia a dia-, oxigeno en sangre, tension artrial, fiebre, horas y calidad de sueño, actividad respiratoria, temperatura corporal, como ejemplo, valiosisimos datos para la investigación, Solo hay que desarollar una APP que reciba y oredene estos datos y posteriormente envie a servidor central. Esta APP tambien servira para que el sujeto paciente informe de sus episodios.
 
-Colaboración de equipos de investigación del caso, organismos de servivios sanitarios, públicos y privados con acceso a un portal web donde informar de datos medicos como por ejemplo analiticas, resultados de exploración, donde estarán refernciados todos los sujetos inscritos desde la APP principal que lo deseen.
+Acceso a la colaboración de equipos de investigación del caso, organismos de servivios sanitarios públicos y privados con acceso a un portal web donde informar de datos medicos como por ejemplo analiticas, resultados de exploración, donde estarán refernciados todos los sujetos inscritos desde la APP principal que lo deseen.
 
 continiará 
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 

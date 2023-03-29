@@ -26,7 +26,6 @@ continiará
 ## How is it used?
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 
 

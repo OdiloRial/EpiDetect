@@ -20,42 +20,15 @@ Como solucion inmediata disponemos del incrible avance del desarllo de aplicaion
 
 Acceso a la colaboración de equipos de investigación del caso, organismos de servivios sanitarios públicos y privados con acceso a un portal web donde informar de datos medicos como por ejemplo analiticas, resultados de exploración, donde estarán refernciados todos los sujetos inscritos desde la APP principal que lo deseen.
 
-continiará 
-
-
-## How is it used?
-
-
-
 
 
 main()
 ```
-
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
-
-## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
-
-## Acknowledgments
-
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Proyecto AI:  EpiDetect
+Proposito 
+En primer lugar, es importante que reúnir una cantidad significativa de datos precisos y completos de pacientes con epilepsia. Se puede recopilar datos de diversas fuentes, como los relojes inteligentes y otras aplicaciones de salud, y también de los propios pacientes que informan sobre sus episodios.
+Una vez que tengamos los datos, podremos utilizar técnicas de aprendizaje profundo para analizarlos y buscar patrones o características que puedan estar asociados con los episodios de epilepsia. Es importante utilizar técnicas de preprocesamiento para limpiar y normalizar los datos antes de alimentarlos a la red neuronal.
+Una arquitectura de red neuronal que podría ser útil para tu proyecto es la red LSTM (Long Short-Term Memory), que es capaz de aprender secuencias de datos y mantener la memoria a largo plazo. También puedemos considerar la inclusión de otras técnicas de aprendizaje profundo, como las redes convolucionales o las redes generativas adversarias.
+Es importante entrenar la red neuronal con suficientes datos y una variedad de casos, incluyendo datos de pacientes con diferentes tipos de epilepsia y gravedad de los síntomas. Deberemos utilizar técnicas de validación cruzada y pruebas en conjunto para evaluar la precisión y la generalización de la red neuronal.
+Por último, es importante considerar la privacidad y la ética en el uso de los datos de salud de los pacientes. Asegúrate de cumplir con las regulaciones de protección de datos y obtener el consentimiento informado de los pacientes antes de utilizar sus datos.
+por Odilo Rial

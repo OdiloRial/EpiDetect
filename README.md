@@ -28,7 +28,9 @@ Proyecto AI:  EpiDetect
 Proposito 
 En primer lugar, es importante que reúnir una cantidad significativa de datos precisos y completos de pacientes con epilepsia. Se puede recopilar datos de diversas fuentes, como los relojes inteligentes y otras aplicaciones de salud, y también de los propios pacientes que informan sobre sus episodios.
 Una vez que tengamos los datos, podremos utilizar técnicas de aprendizaje profundo para analizarlos y buscar patrones o características que puedan estar asociados con los episodios de epilepsia. Es importante utilizar técnicas de preprocesamiento para limpiar y normalizar los datos antes de alimentarlos a la red neuronal.
-Una arquitectura de red neuronal que podría ser útil para tu proyecto es la red LSTM (Long Short-Term Memory), que es capaz de aprender secuencias de datos y mantener la memoria a largo plazo. También puedemos considerar la inclusión de otras técnicas de aprendizaje profundo, como las redes convolucionales o las redes generativas adversarias.
+Una arquitectura de red neuronal que podría ser útil para el proyecto es la red LSTM (Long Short-Term Memory), que es capaz de aprender secuencias de datos y mantener la memoria a largo plazo. También puedemos considerar la inclusión de otras técnicas de aprendizaje profundo, como las redes convolucionales o las redes generativas adversarias.
 Es importante entrenar la red neuronal con suficientes datos y una variedad de casos, incluyendo datos de pacientes con diferentes tipos de epilepsia y gravedad de los síntomas. Deberemos utilizar técnicas de validación cruzada y pruebas en conjunto para evaluar la precisión y la generalización de la red neuronal.
 Por último, es importante considerar la privacidad y la ética en el uso de los datos de salud de los pacientes. Asegúrate de cumplir con las regulaciones de protección de datos y obtener el consentimiento informado de los pacientes antes de utilizar sus datos.
 por Odilo Rial
+
+

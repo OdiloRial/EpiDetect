@@ -7,7 +7,7 @@ Copy the template, paste it to your GitHub README and edit! -->
 Final project for the Building AI course
 
 ## Summary
-El proyecto está baado en la creación de una aplicación de IA capaz de intuir y avisar de  posibles episodios epilépticos 
+El proyecto está basado en la creación de una aplicación de IA capaz de intuir y avisar de  posibles episodios epilépticos analizando estadisticamente datos comunes entre pacientes 
 
 
 ## La idea
